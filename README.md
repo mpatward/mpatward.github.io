@@ -1,2 +1,2 @@
 # mandarpatwardhan.github.io
-This repository is dedicated for my personal website.
+This repository is dedicated to my website.
